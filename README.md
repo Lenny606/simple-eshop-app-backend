@@ -1,4 +1,3 @@
-# simple-eshop-app-backend
 # Simple E-Shop Backend Application
 
 This is a backend service for a simple e-commerce application built with Node.js, Express, and PostgreSQL using Prisma ORM.
